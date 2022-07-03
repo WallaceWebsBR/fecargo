@@ -1,0 +1,8 @@
+Incluir calculo peso
+Incluir NF (tipo de conteúdo, valor NF, anexar a NF se tiver)
+Incluir cliente
+Incluir origem
+Não descartar cotação (deixar pendente)
+Fixar tabela de acordo com o tipo de grupo do cliente
+Incluir mapa (com pontos de localidade)
+Cidades proximas ( com base na base principal)
